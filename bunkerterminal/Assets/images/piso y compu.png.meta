@@ -1,0 +1,780 @@
+fileFormatVersion: 2
+guid: be95727e142e12a41b613dd58cddb43e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5097155542765782315
+    second: piso y compu_0
+  - first:
+      213: -1004573031131819600
+    second: piso y compu_1
+  - first:
+      213: 8728699780636022515
+    second: piso y compu_2
+  - first:
+      213: 1120280966246028176
+    second: piso y compu_3
+  - first:
+      213: -2954876301741942808
+    second: piso y compu_4
+  - first:
+      213: -2723858962743841009
+    second: piso y compu_5
+  - first:
+      213: -6824381820037472147
+    second: piso y compu_6
+  - first:
+      213: -9022300638951407208
+    second: piso y compu_7
+  - first:
+      213: -2728351149308013500
+    second: piso y compu_8
+  - first:
+      213: 371819719173218009
+    second: piso y compu_9
+  - first:
+      213: 1959635716616735170
+    second: piso y compu_10
+  - first:
+      213: -2452464385228281809
+    second: piso y compu_11
+  - first:
+      213: 1038821621785180148
+    second: piso y compu_12
+  - first:
+      213: 2786626589637511685
+    second: piso y compu_13
+  - first:
+      213: 4093226790830269086
+    second: piso y compu_14
+  - first:
+      213: 3186356908206078299
+    second: piso y compu_15
+  - first:
+      213: -5698083743761308733
+    second: piso y compu_16
+  - first:
+      213: 8974431656962850274
+    second: piso y compu_17
+  - first:
+      213: -7258629026367855949
+    second: piso y compu_18
+  - first:
+      213: -5679136640953475509
+    second: piso y compu_19
+  - first:
+      213: 8073803671682729842
+    second: piso y compu_20
+  - first:
+      213: -4140362490914086723
+    second: piso y compu_21
+  - first:
+      213: -8875114514559553539
+    second: piso y compu_22
+  - first:
+      213: 586190062123617843
+    second: piso y compu_23
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 1
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: piso y compu_0
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 566
+        width: 148
+        height: 229
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b25c773d5fbbcb640800000000000000
+      internalID: 5097155542765782315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: piso y compu_1
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 566
+        width: 148
+        height: 229
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b15370962a0f02f0800000000000000
+      internalID: -1004573031131819600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: piso y compu_2
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 566
+        width: 148
+        height: 229
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f617df2432922970800000000000000
+      internalID: 8728699780636022515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: piso y compu_3
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 566
+        width: 147
+        height: 229
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 093d9b17a990c8f00800000000000000
+      internalID: 1120280966246028176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: piso y compu_4
+      rect:
+        serializedVersion: 2
+        x: 843
+        y: 566
+        width: 148
+        height: 229
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e7937fb8ab2ef6d0800000000000000
+      internalID: -2954876301741942808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: piso y compu_5
+      rect:
+        serializedVersion: 2
+        x: 1033
+        y: 566
+        width: 148
+        height: 229
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0fa36b74b8e23ad0800000000000000
+      internalID: -2723858962743841009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: piso y compu_6
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 450
+        width: 123
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d60680d44ecea41a0800000000000000
+      internalID: -6824381820037472147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: piso y compu_7
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 411
+        width: 22
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 891858efe595ac280800000000000000
+      internalID: -9022300638951407208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: piso y compu_8
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 411
+        width: 23
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44497fac513f22ad0800000000000000
+      internalID: -2728351149308013500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: piso y compu_9
+      rect:
+        serializedVersion: 2
+        x: 670
+        y: 411
+        width: 112
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9de1ec98018f82500800000000000000
+      internalID: 371819719173218009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: piso y compu_10
+      rect:
+        serializedVersion: 2
+        x: 859
+        y: 411
+        width: 106
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c9cb1a3d46023b10800000000000000
+      internalID: 1959635716616735170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: piso y compu_11
+      rect:
+        serializedVersion: 2
+        x: 1055
+        y: 411
+        width: 106
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f28eb26a2a817fdd0800000000000000
+      internalID: -2452464385228281809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: piso y compu_12
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 248
+        width: 155
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f73087d2c2aa6e00800000000000000
+      internalID: 1038821621785180148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: piso y compu_13
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 248
+        width: 160
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50a800d7e161ca620800000000000000
+      internalID: 2786626589637511685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: piso y compu_14
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 248
+        width: 151
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e92ec8454101ec830800000000000000
+      internalID: 4093226790830269086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: piso y compu_15
+      rect:
+        serializedVersion: 2
+        x: 659
+        y: 246
+        width: 129
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b593c39d9b6383c20800000000000000
+      internalID: 3186356908206078299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: piso y compu_16
+      rect:
+        serializedVersion: 2
+        x: 843
+        y: 248
+        width: 148
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c3eda856075ce0b0800000000000000
+      internalID: -5698083743761308733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: piso y compu_17
+      rect:
+        serializedVersion: 2
+        x: 1059
+        y: 248
+        width: 103
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ed7a4e1b069b8c70800000000000000
+      internalID: 8974431656962850274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: piso y compu_18
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 30
+        width: 156
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b2210fbb5b244b90800000000000000
+      internalID: -7258629026367855949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: piso y compu_19
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 30
+        width: 155
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4e101d7057af21b0800000000000000
+      internalID: -5679136640953475509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: piso y compu_20
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 30
+        width: 164
+        height: 171
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 277c4ec99a9eb0070800000000000000
+      internalID: 8073803671682729842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: piso y compu_21
+      rect:
+        serializedVersion: 2
+        x: 644
+        y: 30
+        width: 164
+        height: 171
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db0e6b7404a7a86c0800000000000000
+      internalID: -4140362490914086723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: piso y compu_22
+      rect:
+        serializedVersion: 2
+        x: 839
+        y: 30
+        width: 165
+        height: 171
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dffa3c21f5245d480800000000000000
+      internalID: -8875114514559553539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: piso y compu_23
+      rect:
+        serializedVersion: 2
+        x: 1030
+        y: 30
+        width: 165
+        height: 171
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33e0eb771c0922800800000000000000
+      internalID: 586190062123617843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      piso y compu_0: 5097155542765782315
+      piso y compu_1: -1004573031131819600
+      piso y compu_10: 1959635716616735170
+      piso y compu_11: -2452464385228281809
+      piso y compu_12: 1038821621785180148
+      piso y compu_13: 2786626589637511685
+      piso y compu_14: 4093226790830269086
+      piso y compu_15: 3186356908206078299
+      piso y compu_16: -5698083743761308733
+      piso y compu_17: 8974431656962850274
+      piso y compu_18: -7258629026367855949
+      piso y compu_19: -5679136640953475509
+      piso y compu_2: 8728699780636022515
+      piso y compu_20: 8073803671682729842
+      piso y compu_21: -4140362490914086723
+      piso y compu_22: -8875114514559553539
+      piso y compu_23: 586190062123617843
+      piso y compu_3: 1120280966246028176
+      piso y compu_4: -2954876301741942808
+      piso y compu_5: -2723858962743841009
+      piso y compu_6: -6824381820037472147
+      piso y compu_7: -9022300638951407208
+      piso y compu_8: -2728351149308013500
+      piso y compu_9: 371819719173218009
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
