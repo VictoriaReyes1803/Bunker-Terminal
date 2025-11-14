@@ -5,11 +5,13 @@ public class Player : MonoBehaviour
 public float moveSpeed = 5f;
 
     private Rigidbody2D rb;
+    private Animator animator;  
     private Vector2 input;
 
     void Awake()
     {
         rb = GetComponent<Rigidbody2D>();
+         animator = GetComponent<Animator>();
     }
 
     void Update()
@@ -28,8 +30,9 @@ public float moveSpeed = 5f;
             moveX = 1f;
 
         input = new Vector2(moveX, moveY).normalized;
+        float speed = input.sqrMagnitude;
+        animator.SetFloat("Speed", speed);
 
-        // DEBUG: ver lo que está leyendo
         if (input != Vector2.zero)
         {
             Debug.Log("Input: " + input);
