@@ -19,7 +19,6 @@ public float moveSpeed = 5f;
         float moveX = 0f;
         float moveY = 0f;
 
-        // SOLO flechas
         if (Input.GetKey(KeyCode.UpArrow))
             moveY = 1f;
         if (Input.GetKey(KeyCode.DownArrow))
@@ -33,16 +32,16 @@ public float moveSpeed = 5f;
         float speed = input.sqrMagnitude;
         animator.SetFloat("Speed", speed);
 
-        if (input != Vector2.zero)
-        {
-            Debug.Log("Input: " + input);
-            transform.Translate(input * moveSpeed * Time.deltaTime);
-        }
+        // if (input != Vector2.zero)
+        // {
+        //     Debug.Log("Input: " + input);
+        //     transform.Translate(input * moveSpeed * Time.deltaTime);
+        // }
     }
 
     void FixedUpdate()
     {
-        rb.velocity = input * moveSpeed;
+        rb.linearVelocity = input * moveSpeed;
     }
 
 

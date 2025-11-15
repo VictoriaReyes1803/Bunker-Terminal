@@ -3,7 +3,8 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 3
-  tags: []
+  tags:
+  - wall
   layers:
   - Default
   - TransparentFX
@@ -12,7 +13,7 @@ TagManager:
   - Water
   - UI
   - Player
-  - 
+  - wall
   - 
   - 
   - 
@@ -43,6 +44,9 @@ TagManager:
     locked: 0
   - name: Background
     uniqueID: 1443434483
+    locked: 0
+  - name: wall
+    uniqueID: 1240770963
     locked: 0
   - name: Player
     uniqueID: 3992322513
